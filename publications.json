@@ -1,0 +1,573 @@
+{
+  "schema_version": "1.0",
+  "prepared_at": "2026-10-13T12:42:00Z",
+  "inventory": {
+    "scope": "All six entries visible on the public Google Scholar profile at the time checked.",
+    "source_url": "https://scholar.google.com/citations?user=Kd57ldIAAAAJ",
+    "checked_at": "2026-10-13T12:42:00Z",
+    "complete_as_of_check": true,
+    "paper_count": 6
+  },
+  "person": {
+    "name": "Yuelin Hu"
+  },
+  "papers": [
+    {
+      "id": "gac",
+      "display_title": "GAC: Noise-Aware Adaptive Mixing for Hybrid SFT-RL Post-Training",
+      "current_status": "Accepted to EMNLP 2026 Main Conference",
+      "status_sources": [
+        "https://github.com/deepnovacore/GAC#-news"
+      ],
+      "preferred_available_citation_id": "arxiv-v1",
+      "citation_scope": "Verified public arXiv version; published-proceedings citation is not asserted by this export.",
+      "versions": [
+        {
+          "id": "arxiv-v1",
+          "kind": "preprint",
+          "title": "GAC: Noise-Aware Adaptive Mixing for Hybrid SFT-RL Post-Training",
+          "authors": [
+            {
+              "name": "Yuelin Hu"
+            },
+            {
+              "name": "Zhenbo Yu"
+            },
+            {
+              "name": "Zhengxue Cheng"
+            },
+            {
+              "name": "Wei Liu"
+            },
+            {
+              "name": "Li Song"
+            }
+          ],
+          "date": "2026-05-25",
+          "year": 2026,
+          "identifiers": {
+            "arxiv_id": "2605.26184",
+            "arxiv_version": 1,
+            "arxiv_category": "cs.LG",
+            "doi": "10.48550/arXiv.2605.26184"
+          },
+          "url": "https://arxiv.org/abs/2605.26184v1",
+          "pdf_url": "https://arxiv.org/pdf/2605.26184v1",
+          "author_order_source": "Corresponding arXiv PDF",
+          "provenance": [
+            {
+              "url": "https://arxiv.org/pdf/2605.26184v1",
+              "supports": [
+                "authors"
+              ]
+            },
+            {
+              "url": "https://arxiv.org/abs/2605.26184",
+              "supports": [
+                "title",
+                "date",
+                "identifiers"
+              ]
+            }
+          ],
+          "citation_file": "citations/gac--arxiv-v1.bib",
+          "exportable": true
+        }
+      ],
+      "links": [
+        {
+          "kind": "preprint",
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2605.26184"
+        },
+        {
+          "kind": "pdf",
+          "label": "PDF v1",
+          "url": "https://arxiv.org/pdf/2605.26184v1"
+        },
+        {
+          "kind": "code",
+          "label": "Code",
+          "url": "https://github.com/deepnovacore/GAC"
+        },
+        {
+          "kind": "project",
+          "label": "Project",
+          "url": "https://deepnovacore.github.io/GAC/"
+        },
+        {
+          "kind": "model",
+          "label": "Model",
+          "url": "https://huggingface.co/YueLinHu/GAC-Qwen3.5-4B"
+        },
+        {
+          "kind": "scholar",
+          "label": "Scholar record",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&user=Kd57ldIAAAAJ&citation_for_view=Kd57ldIAAAAJ:Y0pCki6q_DkC"
+        },
+        {
+          "kind": "status-evidence",
+          "label": "Venue / status source",
+          "url": "https://github.com/deepnovacore/GAC#-news"
+        }
+      ]
+    },
+    {
+      "id": "meetbench-xl",
+      "display_title": "MeetBench-XL: Calibrated Multi-Dimensional Evaluation and Learned Dual-Policy Agents for Real-Time Meetings",
+      "current_status": "Accepted to an AAAI 2026 workshop (as reported on arXiv)",
+      "status_sources": [
+        "https://arxiv.org/abs/2602.03285"
+      ],
+      "preferred_available_citation_id": "arxiv-v1",
+      "citation_scope": "Verified public arXiv version; published-proceedings citation is not asserted by this export.",
+      "versions": [
+        {
+          "id": "arxiv-v1",
+          "kind": "preprint",
+          "title": "MeetBench-XL: Calibrated Multi-Dimensional Evaluation and Learned Dual-Policy Agents for Real-Time Meetings",
+          "authors": [
+            {
+              "name": "Yuelin Hu"
+            },
+            {
+              "name": "Jun Xu"
+            },
+            {
+              "name": "Bingcong Lu"
+            },
+            {
+              "name": "Zhengxue Cheng"
+            },
+            {
+              "name": "Hongwei Hu"
+            },
+            {
+              "name": "Ronghua Wu"
+            },
+            {
+              "name": "Li Song"
+            }
+          ],
+          "date": "2026-02-03",
+          "year": 2026,
+          "identifiers": {
+            "arxiv_id": "2602.03285",
+            "arxiv_version": 1,
+            "arxiv_category": "cs.AI",
+            "doi": "10.48550/arXiv.2602.03285"
+          },
+          "url": "https://arxiv.org/abs/2602.03285v1",
+          "pdf_url": "https://arxiv.org/pdf/2602.03285v1",
+          "author_order_source": "Corresponding arXiv PDF",
+          "provenance": [
+            {
+              "url": "https://arxiv.org/pdf/2602.03285v1",
+              "supports": [
+                "authors"
+              ]
+            },
+            {
+              "url": "https://arxiv.org/abs/2602.03285",
+              "supports": [
+                "title",
+                "date",
+                "identifiers"
+              ]
+            }
+          ],
+          "citation_file": "citations/meetbench-xl--arxiv-v1.bib",
+          "exportable": true
+        }
+      ],
+      "links": [
+        {
+          "kind": "preprint",
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2602.03285"
+        },
+        {
+          "kind": "pdf",
+          "label": "PDF v1",
+          "url": "https://arxiv.org/pdf/2602.03285v1"
+        },
+        {
+          "kind": "code",
+          "label": "Code",
+          "url": "https://github.com/huyuelin/MeetBench-MeetAll.github.io"
+        },
+        {
+          "kind": "scholar",
+          "label": "Scholar record",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&user=Kd57ldIAAAAJ&citation_for_view=Kd57ldIAAAAJ:2osOgNQ5qMEC"
+        }
+      ]
+    },
+    {
+      "id": "egspo",
+      "display_title": "Entropy-Gated Selective Policy Optimization: Token-Level Gradient Allocation for Hybrid Training of Large Language Models",
+      "current_status": "CSCWD 2026",
+      "status_sources": [
+        "https://fyust.edu.cn/gjhyqk/cscwd2026/program.pdf"
+      ],
+      "preferred_available_citation_id": "arxiv-v1",
+      "citation_scope": "Verified public arXiv version; published-proceedings citation is not asserted by this export.",
+      "versions": [
+        {
+          "id": "arxiv-v1",
+          "kind": "preprint",
+          "title": "Entropy-Gated Selective Policy Optimization:Token-Level Gradient Allocation for Hybrid Training of Large Language Models",
+          "authors": [
+            {
+              "name": "Yuelin Hu"
+            },
+            {
+              "name": "Zhengxue Cheng"
+            },
+            {
+              "name": "Wei Liu"
+            },
+            {
+              "name": "Li Song"
+            }
+          ],
+          "date": "2026-02-03",
+          "year": 2026,
+          "identifiers": {
+            "arxiv_id": "2602.03309",
+            "arxiv_version": 1,
+            "arxiv_category": "cs.LG",
+            "doi": "10.48550/arXiv.2602.03309"
+          },
+          "url": "https://arxiv.org/abs/2602.03309v1",
+          "pdf_url": "https://arxiv.org/pdf/2602.03309v1",
+          "author_order_source": "Corresponding arXiv PDF",
+          "provenance": [
+            {
+              "url": "https://arxiv.org/pdf/2602.03309v1",
+              "supports": [
+                "authors"
+              ]
+            },
+            {
+              "url": "https://arxiv.org/abs/2602.03309",
+              "supports": [
+                "title",
+                "date",
+                "identifiers"
+              ]
+            }
+          ],
+          "citation_file": "citations/egspo--arxiv-v1.bib",
+          "exportable": true
+        }
+      ],
+      "links": [
+        {
+          "kind": "preprint",
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2602.03309"
+        },
+        {
+          "kind": "pdf",
+          "label": "PDF v1",
+          "url": "https://arxiv.org/pdf/2602.03309v1"
+        },
+        {
+          "kind": "publisher",
+          "label": "Publisher record",
+          "url": "https://ieeexplore.ieee.org/abstract/document/11581508/"
+        },
+        {
+          "kind": "scholar",
+          "label": "Scholar record",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&user=Kd57ldIAAAAJ&citation_for_view=Kd57ldIAAAAJ:qjMakFHDy7sC"
+        },
+        {
+          "kind": "status-evidence",
+          "label": "Venue / status source",
+          "url": "https://fyust.edu.cn/gjhyqk/cscwd2026/program.pdf"
+        }
+      ],
+      "source_title": "Entropy-Gated Selective Policy Optimization:Token-Level Gradient Allocation for Hybrid Training of Large Language Models"
+    },
+    {
+      "id": "webexpert",
+      "display_title": "WebExpert: Domain-Aware Web Agents with Critic-Guided Expert Experience for High-Precision Search",
+      "current_status": "ICASSP 2026",
+      "status_sources": [
+        "https://www.cmsworkshops.com/ICASSP2026/view_paper.php?PaperNum=3634&bare=1"
+      ],
+      "preferred_available_citation_id": "arxiv-v1",
+      "citation_scope": "Verified public arXiv version; published-proceedings citation is not asserted by this export.",
+      "versions": [
+        {
+          "id": "arxiv-v1",
+          "kind": "preprint",
+          "title": "WebExpert: domain-aware web agents with critic-guided expert experience for high-precision search",
+          "authors": [
+            {
+              "name": "Yuelin Hu"
+            },
+            {
+              "name": "Zhengxue Cheng"
+            },
+            {
+              "name": "Ronghua Wu"
+            },
+            {
+              "name": "Qunshan Gu"
+            },
+            {
+              "name": "Hongwei Hu"
+            },
+            {
+              "name": "Wei Liu"
+            },
+            {
+              "name": "Qiao Liang"
+            },
+            {
+              "name": "Li Song"
+            }
+          ],
+          "date": "2026-02-03",
+          "year": 2026,
+          "identifiers": {
+            "arxiv_id": "2604.06177",
+            "arxiv_version": 1,
+            "arxiv_category": "cs.IR",
+            "doi": "10.48550/arXiv.2604.06177"
+          },
+          "url": "https://arxiv.org/abs/2604.06177v1",
+          "pdf_url": "https://arxiv.org/pdf/2604.06177v1",
+          "author_order_source": "Corresponding arXiv PDF",
+          "provenance": [
+            {
+              "url": "https://arxiv.org/pdf/2604.06177v1",
+              "supports": [
+                "authors"
+              ]
+            },
+            {
+              "url": "https://arxiv.org/abs/2604.06177",
+              "supports": [
+                "title",
+                "date",
+                "identifiers"
+              ]
+            }
+          ],
+          "citation_file": "citations/webexpert--arxiv-v1.bib",
+          "exportable": true
+        }
+      ],
+      "links": [
+        {
+          "kind": "preprint",
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2604.06177"
+        },
+        {
+          "kind": "pdf",
+          "label": "PDF v1",
+          "url": "https://arxiv.org/pdf/2604.06177v1"
+        },
+        {
+          "kind": "code",
+          "label": "Code",
+          "url": "https://github.com/huyuelin/WebExpert"
+        },
+        {
+          "kind": "publisher",
+          "label": "Publisher record",
+          "url": "https://ieeexplore.ieee.org/abstract/document/11462829/"
+        },
+        {
+          "kind": "scholar",
+          "label": "Scholar record",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&user=Kd57ldIAAAAJ&citation_for_view=Kd57ldIAAAAJ:UeHWp8X0CEIC"
+        },
+        {
+          "kind": "status-evidence",
+          "label": "Venue / status source",
+          "url": "https://www.cmsworkshops.com/ICASSP2026/view_paper.php?PaperNum=3634&bare=1"
+        }
+      ],
+      "source_title": "WebExpert: domain-aware web agents with critic-guided expert experience for high-precision search"
+    },
+    {
+      "id": "infotree-rifb",
+      "display_title": "Maximizing Rollout Informativeness under a Fixed Budget: A Submodular View of Tree Search for Tool-Use Agentic Reinforcement Learning",
+      "current_status": "Preprint",
+      "status_sources": [
+        "https://arxiv.org/abs/2605.05262"
+      ],
+      "preferred_available_citation_id": "arxiv-v1",
+      "citation_scope": "Verified public arXiv version; published-proceedings citation is not asserted by this export.",
+      "versions": [
+        {
+          "id": "arxiv-v1",
+          "kind": "preprint",
+          "title": "Maximizing Rollout Informativeness under a Fixed Budget: A Submodular View of Tree Search for Tool-Use Agentic Reinforcement Learning",
+          "authors": [
+            {
+              "name": "Yuelin Hu"
+            },
+            {
+              "name": "Zhenbo Yu"
+            },
+            {
+              "name": "Zhengxue Cheng"
+            },
+            {
+              "name": "Wei Liu"
+            },
+            {
+              "name": "Li Song"
+            }
+          ],
+          "date": "2026-05-06",
+          "year": 2026,
+          "identifiers": {
+            "arxiv_id": "2605.05262",
+            "arxiv_version": 1,
+            "arxiv_category": "stat.ML",
+            "doi": "10.48550/arXiv.2605.05262"
+          },
+          "url": "https://arxiv.org/abs/2605.05262v1",
+          "pdf_url": "https://arxiv.org/pdf/2605.05262v1",
+          "author_order_source": "Corresponding arXiv PDF",
+          "provenance": [
+            {
+              "url": "https://arxiv.org/pdf/2605.05262v1",
+              "supports": [
+                "authors"
+              ]
+            },
+            {
+              "url": "https://arxiv.org/abs/2605.05262",
+              "supports": [
+                "title",
+                "date",
+                "identifiers"
+              ]
+            }
+          ],
+          "citation_file": "citations/infotree-rifb--arxiv-v1.bib",
+          "exportable": true
+        }
+      ],
+      "links": [
+        {
+          "kind": "preprint",
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2605.05262"
+        },
+        {
+          "kind": "pdf",
+          "label": "PDF v1",
+          "url": "https://arxiv.org/pdf/2605.05262v1"
+        },
+        {
+          "kind": "scholar",
+          "label": "Scholar record",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&user=Kd57ldIAAAAJ&citation_for_view=Kd57ldIAAAAJ:Tyk-4Ss8FVUC"
+        }
+      ]
+    },
+    {
+      "id": "rate-aware-speech",
+      "display_title": "Rate-Aware Learned Speech Compression",
+      "current_status": "ISCAS 2025",
+      "status_sources": [
+        "https://confcats-event-sessions.s3.us-east-1.amazonaws.com/iscas25/uploads/ISCAS_2025_Program_v24.pdf"
+      ],
+      "preferred_available_citation_id": "arxiv-v1",
+      "citation_scope": "Verified public arXiv version; published-proceedings citation is not asserted by this export.",
+      "versions": [
+        {
+          "id": "arxiv-v1",
+          "kind": "preprint",
+          "title": "Rate-Aware Learned Speech Compression",
+          "authors": [
+            {
+              "name": "Jun Xu"
+            },
+            {
+              "name": "Zhengxue Cheng"
+            },
+            {
+              "name": "Guangchuan Chi"
+            },
+            {
+              "name": "Yuhan Liu"
+            },
+            {
+              "name": "Yuelin Hu"
+            },
+            {
+              "name": "Li Song"
+            }
+          ],
+          "date": "2025-01-21",
+          "year": 2025,
+          "identifiers": {
+            "arxiv_id": "2501.11999",
+            "arxiv_version": 1,
+            "arxiv_category": "eess.AS",
+            "doi": "10.48550/arXiv.2501.11999"
+          },
+          "url": "https://arxiv.org/abs/2501.11999v1",
+          "pdf_url": "https://arxiv.org/pdf/2501.11999v1",
+          "author_order_source": "Corresponding arXiv PDF",
+          "provenance": [
+            {
+              "url": "https://arxiv.org/pdf/2501.11999v1",
+              "supports": [
+                "authors"
+              ]
+            },
+            {
+              "url": "https://arxiv.org/abs/2501.11999",
+              "supports": [
+                "title",
+                "date",
+                "identifiers"
+              ]
+            }
+          ],
+          "citation_file": "citations/rate-aware-speech--arxiv-v1.bib",
+          "exportable": true
+        }
+      ],
+      "links": [
+        {
+          "kind": "preprint",
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2501.11999"
+        },
+        {
+          "kind": "pdf",
+          "label": "PDF v1",
+          "url": "https://arxiv.org/pdf/2501.11999v1"
+        },
+        {
+          "kind": "publisher",
+          "label": "Publisher record",
+          "url": "https://ieeexplore.ieee.org/abstract/document/11043747/"
+        },
+        {
+          "kind": "scholar",
+          "label": "Scholar record",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&user=Kd57ldIAAAAJ&citation_for_view=Kd57ldIAAAAJ:9yKSN-GCB0IC"
+        },
+        {
+          "kind": "status-evidence",
+          "label": "Venue / status source",
+          "url": "https://confcats-event-sessions.s3.us-east-1.amazonaws.com/iscas25/uploads/ISCAS_2025_Program_v24.pdf"
+        }
+      ]
+    }
+  ]
+}
